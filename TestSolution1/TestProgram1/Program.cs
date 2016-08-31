@@ -12,6 +12,7 @@ namespace TestProgram1
         {
             int x = 2;
             int y = 5;
+            Console.WriteLine("Hello World");
         }
     }
 }
