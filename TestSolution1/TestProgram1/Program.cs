@@ -11,7 +11,7 @@ namespace TestProgram1
         static void Main(string[] args)
         {
             int x = 2;
-
+            int y = 5;
         }
     }
 }
